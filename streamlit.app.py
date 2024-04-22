@@ -7,7 +7,7 @@ st.title("AI ELITE STREAMLIT DEMO")
 
 st.header("Session for ELITE-18")
 
-st.subheader("By Lakshmi Teja")
+st.subheader("By Vijay Sada")
 
 username = st.text_input("please enter your name:")
 
